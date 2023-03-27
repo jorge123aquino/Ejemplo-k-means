@@ -1,2 +1,3 @@
 # Ejemplo k-means
-ejemplo del algoritmo k means
+
+Ejemplo del algoritmo k means
